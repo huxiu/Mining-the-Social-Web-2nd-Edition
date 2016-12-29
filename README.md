@@ -1,5 +1,8 @@
 Mining the Social Web (2nd Edition)
 =================================
+## 必读章节
+
+第一章，第四章，第五章
 
 ## Summary
 
